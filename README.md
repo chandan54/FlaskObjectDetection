@@ -19,4 +19,4 @@ Once saved, open Postman and  execute as
     //for example POST{"image_path":"https://thumbs.dreamstime.com/b/cat-dog-beach-chair-sitting-blue-white-deck-95561167.jpg"}
     
 Video of implementation:
-
+# https://drive.google.com/file/d/11VzHou9SNok-XVSZMmU41mbDgMvWAa_g/view?usp=drivesdk
